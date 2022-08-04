@@ -1,0 +1,33 @@
+* {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-family: cursive, sans-serif;
+}
+
+.recipes-list li {
+    font-size: 40px;
+    font-family: fantasy, sans-serif;
+}
+
+.recipe-photo, .description, p {
+    text-align: center;
+}
+
+h2 {
+    font-family: fantasy, sans-serif;
+    font-size: 35px;
+}
+
+h3 {
+    font-family: fantasy, sans-serif;
+    font-size: 25px;
+}
+
+p, li {
+    font-family: "Comic Sans MS", sans-serif;
+    font-size: 20px;
+}
